@@ -38,7 +38,6 @@
             alert("Introdu ceva normal")
             return;
     }
-
     li.addEventListener("click",function(){
         li.remove();
     } )
